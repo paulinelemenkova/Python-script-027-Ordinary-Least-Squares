@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[4]:
-
+#
 from __future__ import print_function
 import numpy as np
 import pandas as pd
@@ -19,9 +17,3 @@ print(res.summary())
 res.params
 res.rsquared
 sm.stats.linear_rainbow(res)
-
- # In[ ]:
-
-
-
-
